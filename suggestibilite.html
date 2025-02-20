@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirection</title>
+    <script>
+        window.onload = function() {
+            var mobileLink = "https://us.psytoolkit.org/c/3.6.2/survey?s=FDDKd"; // Lien pour mobile
+            var desktopLink = "https://us.psytoolkit.org/c/3.6.2/survey?s=GX6rS"; // Lien pour ordinateur
+
+            if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+                window.location.href = mobileLink;
+            } else {
+                window.location.href = desktopLink;
+            }
+        };
+    </script>
+</head>
+<body>
+    <p>Redirection en cours...</p>
+</body>
+</html>
