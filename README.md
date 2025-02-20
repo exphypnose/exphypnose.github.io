@@ -1,1 +1,2 @@
-# jerem779.github.io
+- [Lien étude hypnose pour téléphone/cellulaire](https://us.psytoolkit.org/c/3.6.2/survey?s=FDDKd)
+- [Lien étude hypnose pour ordinateur](https://us.psytoolkit.org/c/3.6.2/survey?s=GX6rS)
