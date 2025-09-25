@@ -1,3 +1,3 @@
 # Testez votre suggestibilité à l'hypnose !
-- [Version pour téléphone/cellulaire](https://us.psytoolkit.org/c/3.6.2/survey?s=FDDKd)
-- [Version pour ordinateur](https://us.psytoolkit.org/c/3.6.2/survey?s=GX6rS)
+- [Version pour téléphone/cellulaire](https://us.psytoolkit.org/c/3.6.4/survey?s=FDDKd)
+- [Version pour ordinateur](https://us.psytoolkit.org/c/3.6.4/survey?s=GX6rS)
